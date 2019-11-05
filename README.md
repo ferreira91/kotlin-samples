@@ -1,2 +1,2 @@
 # kotlin-sample
-Kotlin examples
+Kotlin samples
